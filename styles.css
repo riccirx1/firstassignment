@@ -27,12 +27,12 @@ li {
 h1{
     text-align: center;
     font-family:Georgia, 'Times New Roman', Times, serif;
-    color: green;
+    color: black;
 }
 p{
     line-height: 100%;
 }
 a{
-    color:black;
+    color: black;
     font-weight: bold;
 }
