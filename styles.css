@@ -2,22 +2,22 @@ body {
     font-family:Arial, Helvetica, sans-serif;
     font-size: 150%;
     
-    background-color: #cd8d32;
+    background-color: #cf9a50;
 }
  header{ 
     background-color: #edc614;
     
 }
 nav {
-    background-color: #cd8d32;
+    background-color: #cf9a50;
     
 }
 main {
-    background-color: #cd8d32;
+    background-color: #cf9a50;
     font-size: 100%;
 }
 footer {
-    background-color: #cd8d32;
+    background-color: #cf9a50;
 }
 li {
     display:inline-block;
